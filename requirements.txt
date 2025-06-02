@@ -1,0 +1,6 @@
+Flask==2.3.3
+python-docx==1.1.0
+textract==1.6.5
+PyMuPDF==1.23.5
+chardet==5.2.0
+dropbox==11.36.2
